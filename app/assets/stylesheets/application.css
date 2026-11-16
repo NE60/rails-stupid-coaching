@@ -8,3 +8,20 @@
  *
  * Consider organizing styles into separate files for maintainability.
  */
+body {
+  font-family: Calibri, Arial, sans-serif;
+  background-color: #ddaace;
+  padding: 40px;
+}
+
+h1 {
+  color: #1f4e79;
+}
+
+p {
+  color: #3f7e59;
+}
+
+a {
+  color: #3a56a3;
+}
